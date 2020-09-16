@@ -1,7 +1,7 @@
 <!-- Footer Area -->              
               <br>
                 <br>
-                  <p>Copyright © 2020 DS Media Group. Version : <a href="https://github.com/dsmgcom/whois/releases" target="_blank" title="Click For View Update"><font color="#000000">v1.0</font></a></p>
+                  <p>Copyright © 2020 DS Media Group. Version : <a href="https://github.com/dsmgcom/whois/releases" target="_blank" title="Click For View Update"><font color="#000000">v1.0.1</font></a></p>
                     </div>
                 </div>
             </div>
