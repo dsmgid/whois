@@ -1,9 +1,17 @@
-- name: Check PHP syntax errors
+name: PHP Compiler
+on: push
+jobs:
+  build:
+    name: PHP Compiling
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Check PHP syntax errors
   # You may pin to the exact commit or the version.
   # uses: overtrue/phplint@a3be12b40ee4f33a25dfeacc7a5a458742a0d987
-  uses: overtrue/phplint@2.0.3
-  with:
+      uses: overtrue/phplint@2.0.3
+      with:
     # path to check
-    path: # optional, default is .
+        path: .
     # command options.(eg: --no-cache --exclude=*.log)
-    options: # optional, default is 
