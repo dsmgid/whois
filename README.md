@@ -17,7 +17,7 @@ DS Media Group Developement Team PHP Whois Checker Resource: [https://whois.proj
 ### Clone to your system
 
 ```text
-git clone git://github.com/dsmgcom/whois.git
+git clone git://github.com/dsmgid/whois.git
 ```
 
 ### Download the file
@@ -25,14 +25,14 @@ git clone git://github.com/dsmgcom/whois.git
 > ZIP
 
 ```text
-wget https://github.com/dsmgcom/whois/archive/whois-v1.0.zip
+wget https://github.com/dsmgid/whois/archive/whois-v1.0.zip
 ```
 
 > Tar.gz
 
 ```text
-wget https://github.com/dsmgcom/whois/archive/whois-v1.0.tar.gz
+wget https://github.com/dsmgid/whois/archive/whois-v1.0.tar.gz
 ```
 
-> For Windows [https://github.com/dsmgcom/whois/archive/whois-v1.0.zip](https://github.com/dsmgcom/whois/archive/whois-v1.0.zip)
+> For Windows [https://github.com/dsmgid/whois/archive/whois-v1.0.zip](https://github.com/dsmgid/whois/archive/whois-v1.0.zip)
 
